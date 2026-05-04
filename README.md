@@ -61,7 +61,7 @@
 
 ## 📫 Find Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reak-real)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reak-ps)
 [![Repositories](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reak-ps?tab=repositories)
 
 ---
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Reak-real.Reak-real)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Reak-ps.Reak-ps)
 
 *"First, solve the problem. Then, write the code."*
 
