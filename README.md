@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Currently+learning+C%2B%2B+%F0%9F%94%A5;Know+the+basics+of+web+dev;Still+figuring+things+out...;Assembly%3F+Once.+Never+again.)](https://git.io/typing-svg)
 
 </div>
-
+[[See My Repositorys!]([https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://github.com/Reak-ps?tab=repositories))](https://github.com/Reak-ps?tab=repositories)
 ---
 
 ## 🚀 About Me
