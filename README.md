@@ -64,6 +64,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reak-real)
 
 ---
+[![Repositories](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reak-ps?tab=repositories)
 
 <div align="center">
 
