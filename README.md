@@ -42,6 +42,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Rust](https://camo.githubusercontent.com/bbdae8b77fc1fbdbb86b5ef10ae8905c40f0a532e5bd3683f76b018298533796/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527573742d3030303030303f6c6f676f3d72757374266c6f676f436f6c6f723d7768697465)
 
 ---
 
