@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Reak 👋
-### Beginner dev — learning C++ & figuring things out
+### Beginner dev — learning C# & figuring things out
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Currently+learning+C%2B%2B+%F0%9F%94%A5;Know+the+basics+of+web+dev;Still+figuring+things+out...;Assembly%3F+Once.+Never+again.)](https://git.io/typing-svg)
 
@@ -12,10 +12,10 @@
 ## 🚀 About Me
 
 ```txt
-> Beginner in C++ — goal is to make it my main language
+> Beginner in C# — goal is to make it my main language
 > Know the basics of HTML, CSS, JavaScript
-> Worked a bit with React, TypeScript, Tailwind & Node.js
-> Touched PostgreSQL and C# — very lightly
+> Worked a bit with React, TypeScript, Tailwind & Node.js, C++
+> Touched PostgreSQL — very lightly
 > Assembly? Once. Never again. ...maybe.
 ```
 
@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 ### 🎯 Currently Learning
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🌐 Know the Basics
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,10 +37,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 👀 Barely Touched
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Rust](https://camo.githubusercontent.com/bbdae8b77fc1fbdbb86b5ef10ae8905c40f0a532e5bd3683f76b018298533796/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527573742d3030303030303f6c6f676f3d72757374266c6f676f436f6c6f723d7768697465)
 
