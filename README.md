@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hey, I'm Reak 👋
-### Beginner dev — learning C# & figuring things out
+### C# developer — building servers, tools & utilities from scratch
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Currently+learning+C%2B%2B+%F0%9F%94%A5;Know+the+basics+of+web+dev;Still+figuring+things+out...;Assembly%3F+Once.+Never+again.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%23+is+my+main+language+now;Built+an+HTTP+server+from+scratch;No+frameworks%2C+no+bloat;Assembly%3F+Once.+Never+again.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,38 +12,47 @@
 ## 🚀 About Me
 
 ```txt
-> Beginner in C# — goal is to make it my main language
-> Know the basics of HTML, CSS, JavaScript
-> Worked a bit with React, TypeScript, Tailwind & Node.js, C++
-> Touched PostgreSQL — very lightly
-> Assembly? Once. Never again. ...maybe.
+> C# is my main language now — what I use for most new projects
+> Previously built systems-level stuff in C++ (not actively learning it anymore)
+> Started in web dev: HTML, CSS, JS, React, TypeScript, Tailwind, Node.js
+> Lightly touched PostgreSQL
+> Assembly? Once. Never again. ...probably.
 ```
+
+I like building things from scratch rather than relying on frameworks to do the hard part for me — servers, file tools, that kind of thing. Also building small web projects with a friend for solopreneurs and small businesses.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎯 Currently Learning
+### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🌐 Know the Basics
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚡ Used a Bit
+### Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 👀 Barely Touched
+### Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Rust](https://camo.githubusercontent.com/bbdae8b77fc1fbdbb86b5ef10ae8905c40f0a532e5bd3683f76b018298533796/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527573742d3030303030303f6c6f676f3d72757374266c6f676f436f6c6f723d7768697465)
+---
+
+## 🧩 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[OnyxServer](https://github.com/Reak-ps/OnyxServer)** *(archived)* | A lightweight, high-performance static file server and reverse proxy | C# |
+| **[Crestline](https://github.com/Reak-ps/Crestline)** | A lightweight, cross-platform HTTP server written from scratch — no frameworks, no bloat, just raw sockets | C++ |
+| **[Discord-Live-Pc-RPC](https://github.com/Reak-ps/Discord-Live-Pc-RPC)** | Windows console app that shows live CPU and RAM usage as a custom Discord Rich Presence status | C# |
+| **[NEUTRON](https://github.com/Reak-ps/NEUTRON)** | A file organizer | C++ |
 
 ---
 
@@ -68,12 +77,10 @@
 
 ---
 
-
 <div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Reak-ps.Reak-ps)
 
-*"First, solve the problem. Then, write the code..."*
-
+*"First, solve the problem. Then, write the code."*
 
 </div>
