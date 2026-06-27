@@ -54,7 +54,7 @@ I build things from scratch rather than reaching for a framework to do the hard 
 | Project | Description | Stack |
 |---|---|---|
 | [**Crestline**](https://github.com/octavian-ps/Crestline) | *(archived)* | Lightweight, cross-platform HTTP server written from scratch — raw sockets, no frameworks | C++ |
-| [**OnyxServer**](https://github.com/octavian-ps/OnyxServer) *(archived)* | Lightweight, high-performance static file server and reverse proxy | C# |
+| [**OnyxServer**](https://github.com/octavian-ps/OnyxServer) | *(archived)* | Lightweight, high-performance static file server and reverse proxy | C# |
 | [**NEUTRON**](https://github.com/octavian-ps/NEUTRON) | A file organizer | C++ |
 | [**Discord-Live-Pc-RPC**](https://github.com/octavian-ps/Discord-Live-Pc-RPC) | Windows console app showing live CPU/RAM usage as Discord Rich Presence | C# |
 
